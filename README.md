@@ -1,3 +1,17 @@
+# Objectives
+Be able to:
+
+* Install Jasmine
+* Use TDD to complete the exercise
+* Iterate through objects and arrays
+* Dynamically generate objects and arrays
+
+# Set Up
+
+```
+fork and clone
+jasmine init
+```
 # Indexing
 
 You work for a tourism agency, and your job is to promote amusement parks. You have been given a list of amusement parks and you need to write code to help organize the data.
