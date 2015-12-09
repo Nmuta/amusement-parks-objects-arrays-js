@@ -1,10 +1,13 @@
 # Objectives
-Be able to:
+
+__Be able to:__
 
 * Install Jasmine
-* Use TDD to complete the exercise
+* Practice TDD to complete the exercises
 * Iterate through objects and arrays
 * Dynamically generate objects and arrays
+
+__HINT:__ Use the sample data here to help write your tests.
 
 # Set Up
 
