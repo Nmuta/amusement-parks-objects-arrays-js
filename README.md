@@ -4,6 +4,7 @@ __Be able to:__
 
 * Install Jasmine
 * Practice TDD to complete the exercises
+* Observe using small samples of larger data to write tests
 * Iterate through objects and arrays
 * Dynamically generate objects and arrays
 
@@ -13,7 +14,7 @@ __HINT:__ Use the sample data here to help write your tests.
 
 ```
 fork and clone
-jasmine init
+jasmine (make the tests pass)
 ```
 # Indexing
 
